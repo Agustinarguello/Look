@@ -16,4 +16,5 @@ function DataProduct({ nombre, precio, imagen }) {
   );
 }
 
+
 export default DataProduct;
